@@ -106,12 +106,12 @@ capture: {
   })
     
 
-const App = () => {
-  return(
-    <Text>Hello</Text>
+// const App = () => {
+//   return(
+//     <Text>Hello</Text>
 
-  );
-};
+//   );
+// };
 export default cameraScreen;
 
 
